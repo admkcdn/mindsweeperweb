@@ -1,0 +1,17 @@
+{
+  "name": "mindsweeperweb",
+  "version": "1.0.0",
+  "description": "App Store için app-ads.txt dosyası içeren basit website",
+  "main": "index.html",
+  "scripts": {
+    "dev": "vercel dev",
+    "build": "echo 'Static site - no build needed'",
+    "start": "vercel dev"
+  },
+  "keywords": ["app-ads.txt", "vercel", "static-site"],
+  "author": "Adem Koçdoğan",
+  "license": "MIT",
+  "devDependencies": {
+    "vercel": "^32.0.0"
+  }
+}
